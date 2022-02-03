@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam!
-- 👀 I’m interested in web development and biotechnology
+- 👀 I’m interested in web development and biotechnology.
 - 🌱 I’m currently enrolled in a bootcamp and enhancing my web development skills. 
-- 📫 Currently, I can be reached at https://github.com/avc0021 or avc0021@gmail.com
+- 📫 I can be reached at https://github.com/avc0021 or avc0021@gmail.com
 
 <!---
 avc0021/avc0021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
