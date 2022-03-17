@@ -2,9 +2,8 @@
 - 👀 I’m interested in web development, biotechnology, and music.
 - 🌱 I’m currently enrolled in a bootcamp and enhancing my web development skills. 
 - 📫 I can be reached at </br>
-           - https://www.linkedin.com/in/ac383/</br> 
            - https://github.com/avc0021 </br>
-           - avc0021@gmail.com </br>
+
 
 <!---
 avc0021/avc0021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
