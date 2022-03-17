@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Adam!
 - 👀 I’m interested in web development, biotechnology, and music.
 - 🌱 I’m currently enrolled in a bootcamp and enhancing my web development skills. 
-- 📫 I can be reached at </br>
-           - https://github.com/avc0021 </br>
+- 📫 I can be reached at https://github.com/avc0021
 
 
 <!---
