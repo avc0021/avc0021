@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam!
 - 👀 I’m interested in web development, biotechnology, and music.
-- 🌱 I’m currently enrolled in a bootcamp and enhancing my web development skills. 
+- 🌱 Graduate of University of San Antonio Texas Full Stack Web Development Bootcamp. 
 - 📫 I can be reached at https://github.com/avc0021 or avc0021@gmail.com
 
 
