@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam!
 - 👀 I’m interested in web development, biotechnology, and music.
 - 🌱 Graduate of University of San Antonio Texas Full Stack Web Development Bootcamp. 
-- 📫 I can be reached at https://github.com/avc0021 or avc0021@gmail.com
+- 📫 I can be reached at avc0021@gmail.com
 
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
