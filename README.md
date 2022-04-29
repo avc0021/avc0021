@@ -3,7 +3,7 @@
 - 🌱 Graduate of University of San Antonio Texas Full Stack Web Development Bootcamp. 
 - 📫 I can be reached at https://github.com/avc0021 or avc0021@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avc0021&anuraghazra&show_icons=true&theme=algolia&hide=stars)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avc0021&anuraghazra&show_icons=true&theme=dark&hide=stars)</br>
 </br>
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
