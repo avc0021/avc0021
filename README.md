@@ -23,6 +23,7 @@
 ![JSWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=plastic&logo=json-web-tokens&logoColor=pink)
 ![SalesForce](https://img.shields.io/badge/Salesforce-00A1E0?style=plastic&logo=Salesforce&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)
 
 
 </br>
