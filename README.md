@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Adam!
-- 👀 I’m interested in web development, biotechnology, and music.
+## 👋 Hi, I’m Adam!
+- I’m interested in 🖥️web development, 🩸biotechnology, and 🎷all things saxophone.
 - 🌱 Graduate of University of San Antonio Texas Full Stack Web Development Bootcamp. 
+- 🛫 SATX => DFW => MIA => SATX 🛬
+- 💼 [Portfolio](https://github.com/avc0021/Portfolio-3.0/deployments/activity_log?environment=github-pages)
 - 📫 I can be reached at avc0021@gmail.com
 
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
