@@ -7,4 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avc0021&anuraghazra&show_icons=true&theme=dark&hide=stars)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avc0021&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
