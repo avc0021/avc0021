@@ -1,3 +1,5 @@
+
+
 ## 👋 Hi, I’m Adam!
 - I’m interested in 🖥️web development, 🩸biotechnology, and 🎷all things saxophone.
 - 🌱 Graduate of University of San Antonio Texas Full Stack Web Development Bootcamp. 
@@ -34,9 +36,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avc0021&anuraghazra&show_icons=true&theme=dark&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avc0021&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avc0021&layout=compact&theme=dark)
 
-<a href="https://www.buymeacoffee.com/avc0021" target="_blank"><img src="https://aws1.discourse-cdn.com/business4/uploads/ghost2/optimized/2X/3/34fcbef71d7ef8103a83f6e7a615d9273d6dea37_2_690x368.png" alt="Buy Me A Coffee" height="90" width="190"></a>
+<a href="https://www.buymeacoffee.com/avc0021" target="_blank">
+  <img src="https://images.squarespace-cdn.com/content/v1/5cf6ec742e677c000119beb3/1559871045027-2XSVXYWSZD9POBO0QOVD/buy-me-a-coffee-button.png" alt="Buy Me A Coffee" height="90" width="300">
+</a>
 
 
 
