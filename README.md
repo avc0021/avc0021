@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avc0021&layout=compact&theme=dark)
 
 <a href="https://www.buymeacoffee.com/avc0021" target="_blank">
-  <img src="https://images.squarespace-cdn.com/content/v1/5cf6ec742e677c000119beb3/1559871045027-2XSVXYWSZD9POBO0QOVD/buy-me-a-coffee-button.png" alt="Buy Me A Coffee" height="70" width="300">
+  <img src="https://images.squarespace-cdn.com/content/v1/5cf6ec742e677c000119beb3/1559871045027-2XSVXYWSZD9POBO0QOVD/buy-me-a-coffee-button.png" alt="Buy Me A Coffee" height="40" width="150">
 </a>
 
 
