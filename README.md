@@ -5,7 +5,7 @@
 - 🌱 Graduate of University of San Antonio Texas Full Stack Web Development Bootcamp. 
 - 🛫 SATX => DFW => MIA => SATX 🛬
 - 📫 I can be reached at avc0021@gmail.com
-- 💼 [Portfolio](https://github.com/avc0021/Portfolio-3.0/deployments/activity_log?environment=github-pages)
+- 💼 [Portfolio](https://avc0021.github.io/Portfolio-3.0/#about)
 
 
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
