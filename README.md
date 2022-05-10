@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m Adam!
 - I’m interested in 🖥️web development, 🩸biotechnology, and 🎷all things saxophone.
-- 🌱 Graduate of University of San Antonio Texas Full Stack Web Development Bootcamp. 
+- 🎓 Graduate of University of San Antonio Texas Full Stack Web Development Bootcamp. 
 - 🛫 SAT => DAL => MIA => SAT 🛬
 - 📫 I can be reached at avc0021@gmail.com
 - 💼 [Portfolio](https://avc0021.github.io/Portfolio-3.0/#about)
