@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m Adam!
 - Currently working as a Web Developer at 🏫The University of the Incarnate Word 
-- I'm interested in 🖥️web development, 🩸biotechnology, and 🎷all things saxophone 
+- I'm interested in 🖥️web development and 🎷all things saxophone 
 - 🛫 SAT => DAL => MIA => SAT 🛬
 - 📫 I can be reached at avc0021@gmail.com
 - 💼 [Portfolio](https://avc0021.github.io/Portfolio-3.0/#about)
