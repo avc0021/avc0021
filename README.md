@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Adam!
 - Currently working as a Web Developer at 🏫The University of the Incarnate Word.
 - Interested in 🖥️web/📱mobile development and 🎷all things saxophone.
-- 🛫 SAT => DAL => MIA => SAT 🛬
+- 🚘 SAT => DAL => MIA => SAT 🛳
 - 📫 I can be reached at avc0021@gmail.com
 - 💼 [Portfolio](https://avc0021.github.io/Portfolio-3.0/#about)
 
